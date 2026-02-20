@@ -3,3 +3,5 @@ This repository documents the process of learning, practicing, and mastering the
 
 
 Exercises Python - https://pynative.com/python-exercises-with-solutions/
+
+Python - https://mimo.org/blog/15-python-exercises-for-absolute-beginners
