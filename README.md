@@ -7,4 +7,4 @@ Exercises Python - https://pynative.com/python-exercises-with-solutions/
 Python - https://mimo.org/blog/15-python-exercises-for-absolute-beginners
 
 
-How Python Actually Works — The Mental Model Nobody Teaches - https://youtu.be/uti3tMcqczQ
+How Python Actually Works - The Mental Model Nobody Teaches - https://youtu.be/uti3tMcqczQ
